@@ -8,7 +8,7 @@ script:
 env:
   global:
   - ENCRYPTION_LABEL: ""
-  - COMMIT_AUTHOR_EMAIL: "jenteralex@gmail.com"
+  - COMMIT_AUTHOR_EMAIL: "sh@signalwerk.ch"
   - DEPLOY_DIR: "public"
   - SOURCE_BRANCH: "master"
   - TARGET_BRANCH: "gh-pages"

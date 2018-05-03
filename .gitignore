@@ -2,3 +2,4 @@
 /node_modules
 travis/.ssh/id_rsa
 /public
+travis/.ssh/id_rsa
