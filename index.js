@@ -16,7 +16,9 @@ const generator = (icsPath, filePaths) => {
 generator(
   "./public/PublicHoliday.ics",
   [
-    "./data/sechseläuten.txt",
+    "./data/Feiertage/feiertage.txt",
+    "./data/Feiertage/knabenschiessen.txt",
+    "./data/Feiertage/sechseläuten.txt",
   ]
 )
 
