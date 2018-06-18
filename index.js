@@ -30,3 +30,11 @@ generator(
   ]
 )
 
+// https://signalwerk.github.io/calendar/projekt-woche-sfgz.ics
+generator(
+  "./public/projekt-woche-sfgz.ics",
+  [
+    "./data/sfgz/projekt-woche",
+  ]
+)
+

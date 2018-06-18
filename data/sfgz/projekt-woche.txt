@@ -1,0 +1,8 @@
+---
+title:
+  prefix: "Projekt Woche"
+  join: " – "
+date: 18:00–22:00
+notes: Frühlingssemester 2018
+---
+16 Jul 2018, 08:45 - 12:45, Einführung
