@@ -34,7 +34,7 @@ generator(
 generator(
   "./public/projekt-woche-sfgz.ics",
   [
-    "./data/sfgz/projekt-woche",
+    "./data/sfgz/projekt-woche.txt",
   ]
 )
 

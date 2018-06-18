@@ -6,3 +6,7 @@ date: 18:00–22:00
 notes: Frühlingssemester 2018
 ---
 16 Jul 2018, 08:45 - 12:45, Einführung
+16 Jul 2018, 13:45 - 14:45, Referat
+16 Jul 2018, 15:00 - 17:45, Freies Arbeiten
+
+17 Jul 2018, 08:45 - 12:00, Referat
