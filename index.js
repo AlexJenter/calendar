@@ -30,7 +30,7 @@ generator(
   ]
 )
 
-// https://signalwerk.github.io/calendar/projekt-woche-sfgz.ics
+// https://alexjenter.github.io/calendar/projekt-woche-sfgz.ics
 generator(
   "./public/projekt-woche-sfgz.ics",
   [
