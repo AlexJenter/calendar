@@ -4,17 +4,17 @@ title:
   join: " – "
 notes: Frühlingssemester 2018
 ---
-16 Jul 2018, 08:15-11:45
-16 Jul 2018, 12:45-16:15
+16 Jul 2018, 08:15-11:45, Einführunng AJ
+16 Jul 2018, 12:45-16:15, Inputreferat ShH
 
-17 Jul 2018, 08:15-11:45
-17 Jul 2018, 12:45-16:15 
+17 Jul 2018, 08:15-11:45, Freies Arbeiten
+17 Jul 2018, 12:45-16:15, evtl. Input KP oder Film
 
-18 Jul 2018, 08:15-11:45
-18 Jul 2018, 12:45-16:15
+18 Jul 2018, 08:15-11:45, Freies Arbeiten
+18 Jul 2018, 12:45-16:15, Präsentation Grobkonzepte, Feedbackrunde Plenum AJ/ShH
 
-19 Jul 2018, 08:15-11:45
-19 Jul 2018, 12:45-16:15
+19 Jul 2018, 08:15-11:45, Freies Arbeiten
+19 Jul 2018, 12:45-16:15, Freies Arbeite
 
-20 Jul 2018, 08:15-11:45
-20 Jul 2018, 12:45-16:15
+20 Jul 2018, 08:15-11:45, Freies Arbeiten, Abgabe bis Mittag
+20 Jul 2018, 12:45-16:15, Schlusspräsentationen, Feedback AJ, ShH, SH
