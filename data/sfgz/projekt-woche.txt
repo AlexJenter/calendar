@@ -1,6 +1,6 @@
 ---
 title:
-  prefix: "SFGZ"
+  prefix: "SFGZ IAD"
   join: " – "
 notes: Projekwoche «Kontext»
 ---
