@@ -9,15 +9,5 @@ const generator = (icsPath, filePaths) => {
   ics.ics(icsPath);
 };
 
-// https://signalwerk.github.io/calendar/PublicHoliday.ics
-generator("./public/PublicHoliday.ics", [
-  "./data/Feiertage/feiertage.txt",
-  "./data/Feiertage/knabenschiessen.txt",
-  "./data/Feiertage/sechseläuten.txt",
-]);
-
-// https://signalwerk.github.io/calendar/PublicHoliday.ics
+// https://signalwerk.github.io/calendar/Trash.ics
 generator("./public/Trash.ics", ["./data/Entsorgung/index.txt"]);
-
-// https://alexjenter.github.io/calendar/projekt-woche-sfgz.ics
-generator("./public/projekt-woche-sfgz.ics", ["./data/sfgz/projekt-woche.txt"]);
