@@ -1,0 +1,14 @@
+---
+title:
+  prefix: "👩🏼‍🏫"
+  join: " → "
+---
+17.8.2020, 07:30-08:15, KR B 1, location: NT111
+17.8.2020, 10:20-11:50, OU B 1, location: LL101
+17.8.2020, 13:30-15:00, Le B 1, location: NT111
+18.8.2020, 07:30-08:15, RKE B 1, location: Th104
+18.8.2020, 08:20-09:50, OU B 1, location: LL101
+18.8.2020, 10:20-11:50, D B 3, location: B205.2
+21.8.2020, 08:20-09:50, OU B 1, location: LL101
+21.8.2020, 13:30-15:00, D B 3, location: B205.2
+21.8.2020, 16:00-16:45, Beratung, location: N. Magaldi
