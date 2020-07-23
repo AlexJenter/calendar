@@ -12,5 +12,5 @@ const generator = (icsPath, filePaths) => {
 // https://alexjenter.github.io/calendar/Trash.ics
 generator("./public/Trash.ics", ["./data/Entsorgung/index.txt"]);
 
-// https://alexjenter.github.io/calendar/diana_stundenplan.ics
+// https://alexjenter.github.io/calendar/artemis-idh.ics
 generator("./public/artemis-idh.ics", ["./data/other/diana_stundenplan.txt"]);
